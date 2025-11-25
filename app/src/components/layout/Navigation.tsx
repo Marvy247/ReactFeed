@@ -117,9 +117,7 @@ const Navigation: React.FC = () => {
                 Connect Wallet
               </Button>
               <Link href="/wallet">
-                <Button variant="primary" size="sm">
-                  Launch App
-                </Button>
+
               </Link>
             </div>
           </div>
